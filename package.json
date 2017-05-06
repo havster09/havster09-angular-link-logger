@@ -1,0 +1,25 @@
+{
+  "name": "havster09-angular-link-logger",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "y",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/havster09/havster09-angular-link-logger.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "haven ramos <havster09@gmail.com> (http://havenramos.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/havster09/havster09-angular-link-logger/issues"
+  },
+  "homepage": "https://github.com/havster09/havster09-angular-link-logger#readme",
+  "peerDependencies": {
+    "angular": "^1.2.x || >= 1.4.0-beta.0 || >= 1.5.0-beta.0"
+  }
+}
